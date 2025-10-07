@@ -179,7 +179,7 @@ internal class Program
     //             consumption = -1;
     //             break;
     //         case <= 1:
-    //             consumption = 10000;
+    //             consumption = Km * 10000;
     //             break;
     //         case <= 5:
     //             consumption = 10000 + (Km - 1) * 8000;
